@@ -10,6 +10,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Example with image:
 
+Hello World
+
 ![Error](@@baseUrl@@/assets/images/posts/error.png)
 
 Example code block:
